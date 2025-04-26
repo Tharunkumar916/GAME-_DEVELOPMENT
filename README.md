@@ -115,6 +115,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 
 **Output :**
+
 ![Screenshot 2025-04-26 140549](https://github.com/user-attachments/assets/e8d2ea38-1bfc-4a5e-ad06-56b1e9157e33)
 
 **Result :**
